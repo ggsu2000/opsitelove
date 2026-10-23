@@ -1,15 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
-<!-- www.check-domains.com sitemap generator -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- 메인 페이지 -->
+    <url>
+        <loc>https://opsitelove.com/</loc>
+        <priority>1.00</priority>
+    </url>
 
-<url>
-   <loc>https://opsitelove.com/</loc>
-   <lastmod>2026-10-23T11:49:34+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>1.0000</priority>
-</url>
+    <!-- 주요 하부 페이지 및 최신주소 안내 폴더 -->
+    <url>
+        <loc>https://opsitelove.com/오피사이트순위/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/post/오피사이트란/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/오피박사-최신주소안내/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/오피가이드-최신주소안내/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/오피러브-최신주소안내/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/오피아트-최신주소안내/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/부달-부산달리기-최신주소/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/대밤-대구의밤-최신주소안내/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/아이러브밤-최신주소안내/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/헬로밤-최신주소안내/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/오피뷰-최신주소안내/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/오피스타-최신주소안내/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/부산비비기-최신주소안내/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/오피매니아-최신주소안내/</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/오피사이트문의하기/</loc>
+        <priority>0.50</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/오피사이트의개인정보보호처리방안/</loc>
+        <priority>0.50</priority>
+    </url>
+
+    <!-- 지역별 포스트 링크 위젯 -->
+    <url>
+        <loc>https://opsitelove.com/post/_서울오피/</loc>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/post/_강남오피/</loc>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/post/_수원오피/</loc>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/post/_인천오피/</loc>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/post/_대전오피/</loc>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/post/_광주오피/</loc>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/post/_청주오피/</loc>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/post/_대구오피/</loc>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://opsitelove.com/post/_부산오피/</loc>
+        <priority>0.70</priority>
+    </url>
 </urlset>
