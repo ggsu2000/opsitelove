@@ -1,131 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- 메인 페이지 -->
   <url>
     <loc>https://opsitelove.com/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>1.00</priority>
-  </url>
-
-  <!-- 주요 하부 페이지 및 최신주소 안내 폴더 -->
-  <url>
-    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%88%9C%EC%9C%84/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/post/%EC%98%A4%ED%94%BC%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%90%80/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/blog</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EB%B0%95%EC%82%AC-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/opga</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/post/_%EA%B0%95%EB%82%A8%EC%98%A4%ED%94%BC</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EB%9F%AC%EB%B8%8C-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/post/_%EA%B4%91%EC%A3%BC%EC%98%A4%ED%94%BC</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EC%95%84%ED%8A%B8-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/post/_%EB%8C%80%EA%B5%AC%EC%98%A4%ED%94%BC</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EB%B6%80%EB%8B%AC-%EB%B6%80%EC%82%B0%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/post/_%EB%8C%80%EC%A0%84%EC%98%A4%ED%94%BC</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EB%8C%80%EB%B0%A4-%EB%8C%80%EA%B5%AC%EC%9D%98%EB%B0%A4-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/post/_%EB%B6%80%EC%82%B0%EC%98%A4%ED%94%BC</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EC%95%84%EC%9D%B4%EB%9F%AC%EB%B8%8C%EB%B0%A4-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/post/_%EC%84%9C%EC%9A%B8%EC%98%A4%ED%94%BC</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%ED%97%AC%EB%A1%9C%EB%B0%A4-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/post/_%EC%88%98%EC%9B%90%EC%98%A4%ED%94%BC</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EB%B7%B0-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/post/_%EC%9D%B8%EC%B2%99%EC%98%A4%ED%94%BC</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EC%8A%A4%ED%83%80-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/post/_%EC%B2%AD%EC%A3%BC%EC%98%A4%ED%94%BC</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EB%B6%80%EC%82%B0%EB%B9%84%EB%B9%84%EA%B8%B0-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/post/%EC%98%A4%ED%94%BC%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%9E%80</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EB%A7%A4%EB%8B%88%EC%95%84-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.80</priority>
+    <loc>https://opsitelove.com/%EB%8C%80%EB%B0%A4-%EB%8C%80%EA%B5%AC%EC%9D%98%EB%B0%A4-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.50</priority>
+    <loc>https://opsitelove.com/%EB%B6%80%EB%8B%AC-%EB%B6%80%EC%82%B0%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%B2%87%EB%A6%AC%EB%B0%A9%EC%95%88/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.50</priority>
-  </url>
-
-  <!-- 지역별 포스트 링크 위젯 -->
-  <url>
-    <loc>https://opsitelove.com/post/_%EC%84%9C%EC%9A%B8%EC%98%A4%ED%94%BC/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.70</priority>
+    <loc>https://opsitelove.com/%EB%B6%80%EC%82%B0%EB%B9%84%EB%B9%84%EA%B8%B0-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/post/_%EA%B0%95%EB%82%A8%EC%98%A4%ED%94%BC/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.70</priority>
+    <loc>https://opsitelove.com/%EC%95%84%EC%9D%B4%EB%9F%AC%EB%B8%8C%EB%B0%A4-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/post/_%EC%88%98%EC%9B%90%EC%98%A4%ED%94%BC/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.70</priority>
+    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/post/_%EC%9D%B8%EC%B2%99%EC%98%A4%ED%94%BC/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.70</priority>
+    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EB%9F%AC%EB%B8%8C-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/post/_%EB%8C%80%EC%A0%84%EC%98%A4%ED%94%BC/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.70</priority>
+    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EB%A7%A4%EB%8B%88%EC%95%84-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/post/_%EA%B4%91%EC%A3%BC%EC%98%A4%ED%94%BC/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.70</priority>
+    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EB%B0%95%EC%82%AC-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/post/_%EC%B2%AD%EC%A3%BC%EC%98%A4%ED%94%BC/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.70</priority>
+    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EB%B7%B0-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://opsitelove.com/post/_%EB%8C%80%EA%B5%AC%EC%98%A4%ED%94%BC/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <priority>0.70
+    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%88%9C%EC%9C%84</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%B2%87%EB%A6%AC%EB%B0%89%EC%95%88</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EC%8A%A4%ED%83%80-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://opsitelove.com/%EC%98%A4%ED%94%BC%EC%95%84%ED%8A%B8-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://opsitelove.com/%ED%97%AC%EB%A1%9C%EB%B0%A4-%EC%B5%9C%EC%8B%A0%EC%A3%BC%EC%86%8C%EC%95%88%EB%82%B4</loc>
+    <lastmod>2026-10-31T06:24:20Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
